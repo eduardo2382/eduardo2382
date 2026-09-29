@@ -55,9 +55,3 @@
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [⏱️ Cronômetro](https://github.com/eduardo2382/NOME-DO-REPOSITORIO) | Cronômetro com display digital e tema escuro | HTML, CSS, JS |
-
----
-
-<p align="center">
-  Feito por <a href="https://github.com/eduardo2382">eduardo2382</a>
-</p>
