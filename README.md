@@ -54,4 +54,5 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [⏱️ Cronômetro](https://github.com/eduardo2382/NOME-DO-REPOSITORIO) | Cronômetro com display digital e tema escuro | HTML, CSS, JS |
+| [⏱️ Cronômetro](https://github.com/eduardo2382/stopwatch) | Cronômetro com display digital e tema escuro | HTML, Tailwind CSS, JS |
+| [#️⃣ Jogo da Velha](https://github.com/eduardo2382/tictactoe) | Jogo da velha em tema escuro | HTML, Tailwind CSS, JS |
